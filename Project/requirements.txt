@@ -1,0 +1,5 @@
+tensorflow==2.9.2
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+opencv-python-headless==4.7.0.68
+pyttsx3
